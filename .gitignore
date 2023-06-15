@@ -1,0 +1,4 @@
+*
+!.gitignore
+!/hacks/glx/suzannemodel.c
+!/hacks/glx/suzannespin.c
